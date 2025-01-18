@@ -12,7 +12,7 @@ How to Use
 
     Open the app in your browser.
     Type a task in the input field and click the "Add" button or press "Enter" to add it to the list.
-    Click on a task to mark it as completed or pending.
+    Click on a task to mark it as completed.
     Use the delete button next to a task to remove it from the list.
 
 This app is perfect for organizing your daily activities and staying productive! 🎯
